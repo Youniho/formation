@@ -1,7 +1,7 @@
 YB # Meilleur binome ;-)
 <<<<<<< HEAD
 YB # conflit
-YB # lolo
+YB_YD # lolo wa lala
 =======
 YD # top !!
 YD # 2022
