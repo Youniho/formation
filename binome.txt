@@ -1,3 +1,8 @@
 YB # Meilleur binome ;-)
+<<<<<<< HEAD
 YB # conflit
 YB # lolo
+=======
+YD # top !!
+YD # 2022
+>>>>>>> 6181da8c66ac838f3c5aa5d688ef127125ecc306
